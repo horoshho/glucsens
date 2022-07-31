@@ -16,3 +16,4 @@ Description: Simultaneous record of the signal from lock-in amplifier and camera
 
 - SimulationNoNoise.py
 Description: Monte-Carlo simulation of the setup
+How to use: change in Matrixes/pathes.npy variable path to folder with csv files from setupmodel folder.
