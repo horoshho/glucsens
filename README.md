@@ -14,5 +14,5 @@ Output: r2 estimations from different regression methods applied to that data.
 - multirecord2.py
 Description: Simultaneous record of the signal from lock-in amplifier and camera.
 
--SimulationNoNoise.py
+- SimulationNoNoise.py
 Description: Monte-Carlo simulation of the setup
