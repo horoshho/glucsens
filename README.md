@@ -1,4 +1,6 @@
 # glucsens
+- Some of files are very big to be uploaded on the GitHub. I have sent you them via e-mail. Unfortunatelly you have to change some path variables in accordance with location of files that I have sent. It is described in detail below. Sorry for that inconvenience!
+
 - openertst.py 
 Description: it is a program that threats signal collected from lock-in amplifier and camera pictures. 
 It founds points where signal from finger was measured appropriately, devide this signal by reference neighbours to avoid long term signal drifts in photodiode.
